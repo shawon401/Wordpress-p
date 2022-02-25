@@ -58,8 +58,6 @@ body{
 	margin-right: 30px;
 	margin-bottom: -6px;
 }
-.logo a {}
-.logo a img{}
 .menu {
 	float: right;
 	width: 750px;
@@ -92,13 +90,9 @@ body{
 	border: 2px solid rgb(255, 209, 4);
 	border-radius: 10px;
 }
-/*banner code*/
-.banner{}
-.banner img{}
 
 /*services code*/
-.service{}
-.titel{}
+
 .titel h4 {
 	text-align: center;
 	text-transform: capitalize;
@@ -130,10 +124,6 @@ body{
 	margin-bottom: 20px;
 	text-transform: capitalize;
 }
-.single-service img{}
-.single-service p{}
-.single-service a{}
-
 /*About code*/
 .about {
 	padding: 60px 0;
@@ -149,13 +139,12 @@ body{
 	font-size: 34px;
 	margin-bottom: 20px;
 }
-.about-left p{}
-.about-left a{}
+
 .about-menu {
 	float: right;
 	width: 223px;
 }
-.about-menu ul {}
+
 .about-menu ul li {
 	margin-bottom: 5px;
 	padding-bottom: 5px;
@@ -308,7 +297,7 @@ h4 {
 		margin-bottom: 20px;
 	}
 }
-.contact-form form{}
+
 .contact-form input {
 	width: 100%;
 	border: 1px solid#ddd;
@@ -342,10 +331,6 @@ h4 {
 	width: 300px;
 }
 
-.contact-address ul{}
-.contact-form form textarea{
-
-}
 .contact-address ul li {
 	list-style: none;
 	border-bottom: 1px solid #ddd;
